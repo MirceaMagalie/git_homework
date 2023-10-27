@@ -1,1 +1,2 @@
- 
+ There are multiple stages that both files and projects progress through. In general, it's essential to keep in mind that each file in your working directory exists in one of two possible states: 'tracked' or 'untracked.' Tracked files are those that were part of the most recent snapshot, whereas untracked files encompass any files not included in the previous project version.
+To initiate the tracking of a new file, you employ the 'git add' command and specify the file's name
