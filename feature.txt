@@ -1,0 +1,1 @@
+My favorite Git feature is branching. Branches allow you to work on different features or fixes in isolation and then merge them when they are ready. It keeps the codebase organized and makes collaboration with others much smoother.
